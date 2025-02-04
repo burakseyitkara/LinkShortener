@@ -47,7 +47,7 @@ LinkShortener/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LinkShortener.git
+git clone https://github.com/burakseyitkara/LinkShortener.git
 cd LinkShortener
 ```
 
